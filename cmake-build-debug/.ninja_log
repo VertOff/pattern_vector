@@ -1,0 +1,6 @@
+# ninja log v6
+3	167	1741626593351819542	CMakeFiles/calculator.dir/main.cpp.o.ddi	93f7fde411fc6bed
+167	172	1741626593515818700	CMakeFiles/calculator.dir/CXX.dd	fcb5c4a74251826d
+167	172	1741626593515818700	CMakeFiles/calculator.dir/main.cpp.o.modmap	fcb5c4a74251826d
+172	873	1741626593519818680	CMakeFiles/calculator.dir/main.cpp.o	5d9e13cda8dc6d47
+873	977	1741626594223815070	calculator	7b0fb842d3bcd4b8
